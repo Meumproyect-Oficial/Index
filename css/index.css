@@ -75,7 +75,7 @@ body {
 
 .social-nav i:hover {
     transform: scale(1.2) translateY(-0.3rem);
-    color: #00d4ff;
+    color: rgb(200, 200, 200);
 }
 
 .social-nav i:active {
